@@ -25,6 +25,7 @@ header {
   margin-top: 92px;
 }
 .kryg {
+  display:flex;
   width: 7px;
   height: 7px;
   flex-shrink: 0;
@@ -32,6 +33,7 @@ header {
   margin-left: 80px;
 }
 .kryg1 {
+  display:flex;
   width: 7px;
   height: 7px;
   flex-shrink: 0;
